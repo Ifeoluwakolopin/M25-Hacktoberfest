@@ -14,8 +14,8 @@ _This year, only the first **50,000 participants** get free merch! The time to m
 There are three ways to contribute to this M25 repository.
 
 - [Tips and Tricks💡](contributions/Tips_and_tricks.md) (You contribute a random tip, quote, or inside joke for the M25 community.)
-- [Python Questions❓](contributions/python_questions.md) (You can contribute a question that you want to be solved using python. It could be a CS question or just any random python challenge question.)
-- [Python Answers🐍](contributions/answers) (You can contribute by adding python code that answers a question.)
+- [Python Questions❓](contributions/python-challenges/questions.md) (You can contribute a question that you want to be solved using python. It could be a CS question or just any random python challenge question.)
+- [Python Answers🐍](contributions/python-challenges/answers) (You can contribute by adding python code that answers a question.)
 
 - [Projects](contributions/projects) (You can contribute code to a fun open-source project, or contributing a project that you would like others to work on with you.
 
