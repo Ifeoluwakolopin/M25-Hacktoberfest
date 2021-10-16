@@ -14,4 +14,4 @@ def leap_year_checker(year: int):
     if year % 400 == 0: #...and it is divisible by 400
       return True
     else: #...and it is not divisible by 400
-      return 
+      return False
