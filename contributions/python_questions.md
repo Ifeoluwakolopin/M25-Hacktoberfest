@@ -8,3 +8,12 @@ def leap_year_checker(year):
 
 The input format is an integer (year) and the output format is a boolean(True or False).
 ***Note:*** There are multiple solutions to this question so feel free to be creative😃
+
+### Question 2
+Write a function that finds the mode in a list of numbers.
+**Example**
+```python
+def mode(lst):
+    #code to find the mode in the list
+```
+The input is a list of numbers and the output is the number with the highest number of occurences (mode). If there are multiple modes, return any of them.
