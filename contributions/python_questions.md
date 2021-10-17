@@ -9,7 +9,7 @@ def leap_year_checker(year):
 The input format is an integer (year) and the output format is a boolean(True or False).
 ***Note:*** There are multiple solutions to this question so feel free to be creative😃
 
-### Question 2
+### Question 3
 Write a function that finds the mode in a list of numbers.
 **Example**
 ```python
