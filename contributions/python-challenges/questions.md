@@ -61,3 +61,14 @@ that takes a message made up of the Heptapod C letters and symbols and returns t
 
 
 ```
+
+### Question 3
+Write a function that finds the mode in a list of numbers.
+**Example**
+```python
+def mode(lst):
+    #code to find the mode in the list
+```
+The input is a list of numbers and the output is the number with the highest number of occurences (mode). If there are multiple modes, return the smallest one.
+The function should not involve any python module imports, the ```max``` or ```min``` or ```sorted``` functions, or the ```.sort()``` methods of lists.
+
