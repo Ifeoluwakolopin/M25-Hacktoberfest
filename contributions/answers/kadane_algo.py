@@ -1,6 +1,9 @@
-def maxSubArraySum(a,size):
-      
-    max_so_far = -maxint - 1
+def maxSubArraySum(a,size:int):
+    """
+    This code helps to find thhe maximum sum of a subarray
+    within the larger array 'a'
+    """
+    max_so_far = a[0]
     max_ending_here = 0
       
     for i in range(0, size):
@@ -11,4 +14,3 @@ def maxSubArraySum(a,size):
         if max_ending_here < 0:
             max_ending_here = 0  
     return max_so_far
-  
